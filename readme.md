@@ -1,4 +1,1 @@
-all the rizzlers outside have ligma
-but i think im really sigma
-and since we dont have gyat to mog
-let me goon let me goon let me goon
+![kamemae's Stats](https://github-readme-stats.vercel.app/api?username=kamemae&theme=dark&show_icons=true&hide_border=true&count_private=true)
