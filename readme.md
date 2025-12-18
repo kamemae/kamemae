@@ -7,9 +7,13 @@
   width: fit-content;
   max-width: 100%;
 ">
-  <div style="color:#fff; overflow:hidden;">
+  <div style="
+    color:#fff;
+    display:flex;
+    justify-content:space-between;
+  ">
     <span>Command Prompt</span>
-    <span style="float:right;">- □ x</span>
+    <span>- □ x</span>
   </div>
 
   Makaron Windowless [Version 10.0.19044.6456]<br>
