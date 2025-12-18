@@ -7,12 +7,15 @@
   width: fit-content;
   max-width: 100%;
 ">
-  <div style="color:#fff;">
-    Command Prompt                                     - □ x <br>
+  <div style="color:#fff; overflow:hidden;">
+    <span>Command Prompt</span>
+    <span style="float:right;">- □ x</span>
   </div>
+
   Makaron Windowless [Version 10.0.19044.6456]<br>
   (c) Hugesoft Corporation. All rights (i guess) reserved.<br>
   <br>
+
   <span style="color:#9cdcfe;">C:\Users\makaron&gt;</span>
   <span style="color:#dcdcaa;"> echo Hello World!</span><br>
   Hello World!
