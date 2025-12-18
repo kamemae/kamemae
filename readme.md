@@ -1,2 +1,2 @@
-> C:\Users\makaron>echo Hello World!<br>
-> Hello World!
+C:\Users\makaron>echo Hello World!<br>
+Hello World!
