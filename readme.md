@@ -8,9 +8,7 @@
   max-width: 100%;
 ">
   <div style="color:#fff;">
-    ┌──────────────────────────────────────────────────────────┐<br>
-    │ Command Prompt                                     - □ x │<br>
-    └──────────────────────────────────────────────────────────┘
+    Command Prompt                                     - □ x <br>
   </div>
   Makaron Windowless [Version 10.0.19044.6456]<br>
   (c) Hugesoft Corporation. All rights (i guess) reserved.<br>
