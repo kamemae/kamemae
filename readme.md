@@ -9,10 +9,6 @@
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=kamemae&theme=journey&pixelate_avatar=false">
 </p>
 
----
-
-## things
-
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30"/>
@@ -47,8 +43,6 @@
 
 ---
 
-## JAVASCRIPT SUPREMACY CORNER
-
 <div align="center">
   <img src="./assets/image1.jpg" height="250"/>
   <img src="./assets/image2.png" height="250"/>
@@ -57,8 +51,6 @@
 
 ---
 
-## recently listened to
-
 <div align="center">
   <a href="https://open.spotify.com/user/ub49jctpqsbsx4q0e3ezww295">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ub49jctpqsbsx4q0e3ezww295&count=5&unique=false"/>
@@ -66,8 +58,6 @@
 </div>
 
 ---
-
-## profile views
 
 <div align="center">
   <img src="https://count.getloli.com/@:kamemae?theme=rule34&padding=6&offset=32&scale=2&align=top&pixelated=1&darkmode=auto"/>
