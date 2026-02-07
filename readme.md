@@ -11,7 +11,7 @@
 
 ---
 
-## things i can use
+## things
 
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30"/>
@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30"/>
 </div>
 
----
-
-## tools ect.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /> 
