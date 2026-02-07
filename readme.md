@@ -58,6 +58,14 @@
 
 ###
 
+<div algin="center">
+  <img src="./assets/image1.jpg" height="250px"/>
+  <img src="./assets/image2.png" height="250px"/>
+  <img src="./assets/image3.png" height="250px"/>
+</div>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/ub49jctpqsbsx4q0e3ezww295">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ub49jctpqsbsx4q0e3ezww295&count=5&unique=false" alt="Spotify recently played"  />
